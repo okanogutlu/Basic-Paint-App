@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/kirmizi"
+        android:icon="@drawable/ic_icon"
+        android:title="@string/k_rm_z"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/siyah"
+        android:icon="@drawable/ic_icon"
+        android:title="@string/siyah"
+        app:showAsAction="never" />
+</menu>

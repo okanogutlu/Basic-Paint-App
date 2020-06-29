@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">cizim</string>
+    <string name="button">Button</string>
+    <string name="k_rm_z">kırmızı</string>
+    <string name="siyah">siyah</string>
+</resources>
